@@ -22,5 +22,5 @@ Here are some ideas to get you started:
     5. Theory of Computation 
 - 📫 How to reach me: adityakrmaurya03@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: ESC :q!
-
+- ⚡ Fun fact:
+       Googling stuff online does not make you a doctor...
